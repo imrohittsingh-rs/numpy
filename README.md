@@ -12,3 +12,11 @@ The examples are intentionally small and practical, making this repository usefu
 | [part-02.ipynb](part-02.ipynb) | Indexing, slicing, sorting, Boolean masks, fancy indexing, and where(), vstack & hstack |
 | [part-03.ipynb](part-03.ipynb) | Creating matrices and performing matrix calculations, including arithmetic, multiplication, transpose, and aggregation |
 | [part-04.ipynb](part-04.ipynb) | Mathematical functions, trigonometry, statistics, powers, logarithms, exponentials, and absolute values |
+
+
+## Learning Path
+
+1. Learn how NumPy arrays are created and how their shape and memory behavior work.
+2. Practice selecting, sorting, and filtering array data.
+3. Work with matrices and common matrix operations.
+4. Apply NumPy's built-in mathematical and statistical functions.
